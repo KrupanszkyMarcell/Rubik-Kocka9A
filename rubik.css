@@ -10,8 +10,9 @@ body{
   color: #443502
 }
 
-#cimkep{
+#cimkep {
   float:left;  
+  height: 150px;
 }
 
 h1{
